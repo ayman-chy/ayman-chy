@@ -1,6 +1,8 @@
 ## Ayman Chowdhury
 Mathematics and Economics
+
 Class of 2028
+
 Washington and Lee University
 
 <!--
