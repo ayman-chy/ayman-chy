@@ -1,4 +1,7 @@
-## Hi there 👋
+## Ayman Chowdhury
+Mathematics and Economics
+Class of 2028
+Washington and Lee University
 
 <!--
 **ayman-chy/ayman-chy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
